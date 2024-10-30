@@ -18,12 +18,11 @@ pip install git+https://github.com/laudv/prada.git
 
 ## Reproducing Experiments
 
-To train the model(s) in the paper, run this command:
+To reproduce experiments from the paper, run this command:
 
 ```
-python main.py [DATASET_NAME]
+python main.py [-m model_type] [-a attack_type] dataset
 ```
-
 
 ## Cite this work
 
