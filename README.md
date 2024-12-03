@@ -1,6 +1,6 @@
 # Faster Repeated Evasion Attacks in Tree Ensembles
 
-This repository is the official implementation of the paper "Faster Repeated Evasion Attacks in Tree Ensembles", presented at NeurIPS 2024. (TODO: add link to proceedings)
+This repository is the official implementation of the [paper](https://openreview.net/pdf?id=Ugr0yPzY71) "Faster Repeated Evasion Attacks in Tree Ensembles", presented at NeurIPS 2024. 
 
 ## Requirements
 
@@ -26,4 +26,4 @@ python main.py [-m model_type] [-a attack_type] dataset
 
 ## Cite this work
 
-Cascioli L., Devos L., Kuzelka O., Davis J. (2024). "Faster Repeated Evasion Attacks in Tree Ensembles", NeurIPS 2024 (TODO: add link to proceedings)
+Cascioli L., Devos L., Kuzelka O., Davis J., "Faster Repeated Evasion Attacks in Tree Ensembles", NeurIPS 2024.
